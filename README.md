@@ -1,2 +1,0 @@
-# CHIcklittle
-Edu website
